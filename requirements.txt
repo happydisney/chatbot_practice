@@ -1,5 +1,5 @@
 streamlit
-choromadb
+chromadb
 langchain
 unstructured
 sentence-transformers
